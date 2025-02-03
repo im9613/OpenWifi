@@ -1,0 +1,33 @@
+*.class          # 컴파일된 클래스 파일
+*.log            # 로그 파일
+*.ctxt           # BlueJ 파일
+.mtj.tmp/        # Mobile Tools for Java (J2ME)
+*.jar            # JAR 파일
+*.war            # WAR 파일
+*.nar            # NAR 파일
+*.ear            # EAR 파일
+*.zip            # ZIP 파일
+*.tar.gz         # tar.gz 파일
+*.rar            # RAR 파일
+hs_err_pid*      # Java 가상 머신 크래시 로그
+replay_pid*      # Java replay PID 파일
+
+db.properties    # DB 연결 정보가 포함된 파일
+.env             # 환경 변수 파일
+*.env            # .env 파일
+*.bash_profile   # bash_profile 설정 파일
+*.zshrc          # zshrc 설정 파일
+
+.idea/           # IntelliJ 프로젝트 설정 파일
+*.iml            # IntelliJ Module 파일
+*.project        # Eclipse 프로젝트 파일
+*.classpath      # Eclipse 클래스패스 파일
+target/          # Maven 빌드 출력 디렉토리
+out/             # IntelliJ 출력 디렉토리
+
+.DS_Store        # macOS의 Finder 관련 파일
+Thumbs.db        # Windows 미리보기 캐시 파일
+
+*.user           # 개인 설정 파일
+*.sublime-workspace # Sublime Text 워크스페이스 파일
+db.properties

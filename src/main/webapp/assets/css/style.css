@@ -1,0 +1,20 @@
+@charset "EUC-KR";
+	table, #main {
+		border: 1px solid black;
+		border-collapse: collapse;
+		width: 1500px;
+		table-layout: fixed;
+	}
+	
+	td, th {
+		border: 1px solid black;
+		padding: 8px;
+	}
+	
+	#main {
+		background-color: green;
+	}
+	
+	#latitude, #longitude {
+		display: inline-block;
+	}
